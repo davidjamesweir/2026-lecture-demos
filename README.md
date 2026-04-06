@@ -12,6 +12,8 @@ Clicking the links below will launch an interactive Python notebook on the [mybi
 
 Also, please be patient, it can take a little while for the notebooks to start up.
 
+**Problems scrolling notebooks**: If you find the interface is 'jumpy' then open the *Settings* menu and go to the *Settings Editor*, select *Notebook* at the left and then change the setting *Windowing mode* to *none* (see e.g. [here](https://discourse.jupyter.org/t/scrolling-bug-makes-my-screen-shake-erratically/32421) for more about this issue). This solved the issue for me. Unfortunately I can't pre-set this for you.
+
 ## Run the Monte Carlo demo on mybinder.org
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/davidjamesweir/2026-lecture-demos/HEAD?urlpath=%2Fdoc%2Ftree%2Fmonte_carlo.ipynb)
