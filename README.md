@@ -1,5 +1,7 @@
 These are demonstrations under development by [David Weir](https://www.saoghal.net) for the lecture course *Primordial sources of gravitational waves: what can simulations teach us* at the [56th Heidelberg Physics Graduate Days](https://physik.uni-heidelberg.de/graddays/20261), 2026.
 
+[![SWH](https://archive.softwareheritage.org/badge/origin/https://github.com/davidjamesweir/2026-lecture-demos/)](https://archive.softwareheritage.org/browse/origin/?origin_url=https://github.com/davidjamesweir/2026-lecture-demos)
+
 All feedback, comments, improvements are welcome; please feel free to email me at [david.weir@helsinki.fi](mailto:david.weir@helsinki.fi), or talk to me during or after the lectures!
 
 This repository will be updated throughout the week with links to additional notebooks as they near completion, and with other computational resources relevant to the lecture course.
